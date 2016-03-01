@@ -1,2 +1,1 @@
-# fitfrost.github.io
-Site.
+https://www.fitfrost.co/
