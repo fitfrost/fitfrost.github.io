@@ -1,9 +1,20 @@
-#fitfrostleft{
-	font-family: "Nunito";
-	color: #EBECED;
+#fitfrostleft {
+    font-family: "Nunito";
+    color: #F1F3F6;
+    text-shadow: 0 0 5px #233D54;
+    font-size: 40px;
+    font-weight: bold;
 }
-header{
-	background-image: url(../img/heroalt.png);}
+#logo{
+	
+	}
+header {
+    background-image: url(../img/ingredients1long.png);
+    position: relative;
+    right: 20px;
+    height: 92vh;
+    width: 100vw;
+}
 .navbar-default .navbar-toggle {
     background-color: #5091C5;
     border-color: #3463A2;
@@ -28,9 +39,9 @@ a {
     text-shadow: none;
     background: #337ab7;
 }
-#frostit{
-	height: 2em;
-	}
+#frostit {
+    height: 150%;
+}
 
 #image {
     background-image: url("../img/product1.png");
@@ -60,3 +71,14 @@ img{
   text-align: center;
   background-color: #454545;
 	}
+section#contact {
+    background-color: #222;
+    background-image: url(../img/largetoast.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section#contact .section-heading {
+    color: #fff;
+    text-shadow: 0 0 3px black;
+}
