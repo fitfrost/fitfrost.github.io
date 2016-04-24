@@ -82,3 +82,13 @@ section#contact .section-heading {
     color: #fff;
     text-shadow: 0 0 3px black;
 }
+@media (max-width:940px) {
+  
+header {
+    background-image: url(../img/heromobile.png);
+    position: relative;
+    right: 20px;
+    height: 92vh;
+    width: 100vw;
+}
+}
