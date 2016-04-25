@@ -10,6 +10,7 @@
 	}
 header {
     background-image: url(../img/ingredients1long.png);
+	background-attachment: fixed;
     position: relative;
     right: 20px;
     height: 92vh;
@@ -77,6 +78,7 @@ img{
   text-align: center;
   background-color: #454545;
 	}
+
 section#contact {
     background-color: #222;
     background-image: url(../img/largetoast1.png);
@@ -88,8 +90,14 @@ section#contact .section-heading {
     color: #fff;
     text-shadow: 0 0 3px black;
 }
-div.row.featurette{
-	}
+	
+.parallax-container {
+      height: 50vh;
+	  background-attachment:fixed;
+	  background-position: center center;
+	  background-size: cover;
+	  background-image: url(../img/largetoast1.png);
+    }
 @media (max-width: 940px)
 {
 header {

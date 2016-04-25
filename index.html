@@ -35,7 +35,8 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-	<script>function upDate(previewPic){
+	<script>
+	function upDate(previewPic){
      x = document.getElementById('image');
      
      y = previewPic.src;
@@ -43,7 +44,9 @@
 
     
 	}
-
+$(document).ready(function(){
+      $('.parallax').parallax();
+    });
 	</script>
 	
 
@@ -139,13 +142,23 @@
             </div>
         </div>
     </section>
+	
+	<!--Parallax-->
+	
+	<div class="parallax-container">
+
+    </div>
+	
+	<!--End parralax-->
+	
+	
 	<!-- Nutrition -->
 	<section id="nutrition" class="bg-light-gray">
 	<div class="container">
 		  <div class="row">
-			    <div class="col-lg-12 text-center">
+			    <div class="col-lg-12 text-center" id="productinfo">
 				      <h2 class="section-heading">Product Info</h2>
-				      <h3 class="section-subheading text-muted">Fit Frost Original</h3>
+				      
     			</div>
 	  	</div>
 </div>
