@@ -13,7 +13,7 @@ header {
     position: relative;
     right: 20px;
     height: 92vh;
-    width: 100vw;
+    width: 103vw;
 }
 .navbar-default .navbar-toggle {
     background-color: #5091C5;
@@ -91,6 +91,6 @@ header {
     position: relative;
     right: 20px;
     height: 92vh;
-    /* width: 100vw; */
+    width: 103vw; 
 	}
 }
