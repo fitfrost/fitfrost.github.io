@@ -86,7 +86,7 @@ section#contact .section-heading {
 @media (max-width: 940px)
 {
 header {
-    background-image: url(../img/heromobile.png);
+    background-image: url(../img/heroextended.png);
     background-size: cover;
     position: relative;
     right: 20px;
