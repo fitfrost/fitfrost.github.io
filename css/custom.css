@@ -128,7 +128,13 @@ header {
     /* margin-top: 3em; */
 	}
 }
-
+.parallax-container {
+      height: 50vh;
+	  background-attachment:fixed;
+	  background-position: center center;
+	  background-size: cover;
+	  visibility: none;
+    }
 @media (min-device-width:300px) and (max-width: 700px)
 {
 header {
@@ -141,5 +147,12 @@ header {
     width: 108vw;
     margin-top: 3em;
 }
+.parallax-container {
+      height: 50vh;
+	  background-attachment:fixed;
+	  background-position: center center;
+	  background-size: cover;
+	  visibility: none;
+    }
 }
 
