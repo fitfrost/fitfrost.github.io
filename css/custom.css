@@ -9,11 +9,11 @@
 	
 	}
 header {
-    background-image: url(../img/ingredients1long.png);
+    background-image: url(../img/jartoast.png);
 	background-attachment: fixed;
     position: relative;
     right: 20px;
-    height: 92vh;
+    height: 100vh;
     width: 103vw;
 }
 .navbar-default .navbar-toggle {
