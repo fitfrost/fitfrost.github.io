@@ -132,14 +132,18 @@ header {
 @media (min-device-width:300px) and (max-width: 700px)
 {
 header {
-        background-image: url(../img/heroextended.png);;
+    background-image: url(../img/herooption1.png);
     /* background-size: cover; */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-position-y: 3em;
     position: relative;
-    left: -2em;
-    right: 20px;
-    height: 50vh;
-    width: 108vw;
-    margin-top: 3em;
+    /* left: -2em; */
+    /* right: 20px; */
+    /* height: 50vh; */
+    /* width: 108vw; */
+    /* margin-top: 3em; */
 }
 
 }
