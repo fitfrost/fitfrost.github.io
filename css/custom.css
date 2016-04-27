@@ -139,6 +139,28 @@ section#contact .section-heading {
     font-size: 1.125em;
     font-weight: 200;
 	}
+	
+.test{
+    width:100vw
+}
+.pic{
+  width: 50%;
+  margin-left:25%;
+  margin-top:3em;
+  border: 10px solid blue;
+  
+}
+#testimonialname{
+  text-align:center;
+  color: black;
+  background-color:none;
+}
+#testimonialquote{
+  color: black;
+  width:80%;
+  text-align: center;
+  margin-left:10%;
+}
 @media (max-width: 940px)
 {
 header {
