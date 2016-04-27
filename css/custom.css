@@ -177,6 +177,7 @@ section#contact .section-heading {
     font-size: 1.5em;
     font-weight: 200;
 	}
+/*
 	.btn {
   background: #3498db;
   background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
@@ -203,6 +204,7 @@ section#contact .section-heading {
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
 }
+*/
 @media (max-width: 940px)
 {
 header {
