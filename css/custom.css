@@ -132,7 +132,7 @@ section#contact .section-heading {
 	background-image: url(../img/cupcakes1.jpg);
 	}
 #ingredienttext{
-	    font-family: "Didact Gothic", sans-serif;
+	font-family: "Didact Gothic", sans-serif;
     text-transform: none;
     color: #514F4F;
     font-style: normal;
@@ -170,9 +170,9 @@ header {
     /* margin-top: 3em; */
 }
 .parallax-container {
-    height: 50vh;
     background-attachment: fixed;
-    background-size: cover;
+    height: 10vh;
+    background-size: contain;
     background-repeat: no-repeat;
 }
 
