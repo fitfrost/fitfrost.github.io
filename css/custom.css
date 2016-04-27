@@ -150,6 +150,7 @@ header {
 	  background-attachment:fixed;
 	  background-position: top center;
 	  background-size: contain;
+	  background-repeat: no-repeat
     }
 }
 
