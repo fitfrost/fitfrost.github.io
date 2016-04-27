@@ -172,7 +172,7 @@ header {
 .parallax-container {
     height: 50vh;
     background-attachment: fixed;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
