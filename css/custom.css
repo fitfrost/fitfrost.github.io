@@ -34,6 +34,30 @@ a {
 section {
     padding: 2em 0;
 }
+.service-heading {
+    margin: 15px 0;
+    text-transform: none;
+    font-size: 40px;
+}
+section h2.section-heading {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    padding-top: 30px;
+}
+section h3.section-subheading {
+    font-size: 16px;
+    font-family: "Didact Gothic","Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: none;
+    /* font-style: italic; */
+    font-weight: 400;
+    margin-bottom: 75px;
+}
+.text-muted {
+    color: #777;
+    font-family: "didact gothic";
+    font-size: 18px;
+}
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
@@ -146,11 +170,9 @@ header {
     /* margin-top: 3em; */
 }
 .parallax-container {
-      height: 50vh;
-	  background-attachment:fixed;
-	  background-position: top center;
-	  background-size: contain;
-	  background-repeat: no-repeat
-    }
+    height: 50vh;
+    background-attachment: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
